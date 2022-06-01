@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MostafaElnaggar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning backend development (Java, php, python)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:mostafaessam202@gmail.com
 -                     Phone Number: 01010834903
 
